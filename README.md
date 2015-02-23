@@ -1,2 +1,2 @@
-# coll-symp
-A paper on Collinwood, sympathy, and the work of art
+# Sympathy in Collingwood's aesthetics
+A paper on Collingwood, sympathy, and the work of art
